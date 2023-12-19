@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="final_project"
-        android:name="${applicationName}"
+        android:label="Maulana Final Project"
+        android:name="io.flutter.app.MaulanaFlutterProject"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
